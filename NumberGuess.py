@@ -26,8 +26,10 @@ for i in range(1, 9):
         if guesses == 8:
             print("You ran out of guesses!")
             print("THE RANDOM NUMBER WAS......")
+            print
             print("|")
             print("V")
+            print
             print(randNum)
 
     else:
